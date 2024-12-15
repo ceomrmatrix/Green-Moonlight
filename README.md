@@ -10,7 +10,7 @@ Syringe is a powerful, cutting-edge Roblox executor designed to enhance your Rob
 
 ► Advanced AI Integration: Built with intelligent AIs that enhance performance and reliability.
 
-► ParaOS: A custom AI operating system built for many purposes outside of Syringe. The system integrates directly into Roblox’s Lua environment, actively fighting off detection vectors and staying hidden from Byfron’s radar. ParaOS CANNOT stop you from being banned! The AI has been trained to recongnize detection vectors and TRY to intercept Hyperion. (haha fuck you roblox im just better)
+► ParaOS: A custom AI operating system built for many purposes outside of Syringe. The system integrates directly into Roblox’s Lua environment, actively fighting off detection vectors and staying hidden from Byfron’s radar. ParaOS CANNOT stop you from being banned! The AI has been trained to recognize detection vectors and TRY to intercept Hyperion. (haha fuck you roblox im just better)
 
 ► High Stealth: With a 94% UNC rate, Syringe is optimized to remain undetected while providing full functionality.
 
