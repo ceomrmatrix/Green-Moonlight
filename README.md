@@ -1,4 +1,4 @@
-# Syringe
+# Syringe, © Paradox Laboratories, all rights reserved.
 
 Roblox Executor 94% UNC
 
